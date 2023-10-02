@@ -1,4 +1,4 @@
 # demo
 My First Git Repository
 <br>
-Author = Khushi Kumari
+Author = Khushi Soni
